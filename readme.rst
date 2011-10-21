@@ -7,6 +7,6 @@ will use this and expand it into a self-contained qooxdoo application which
 can then be further extended. Please refer to the script and other documentation
 for further information.
 
-Third trivial change.
+Fourth trivial change.
 
 short:: is a standard qooxdoo GUI application
